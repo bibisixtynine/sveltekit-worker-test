@@ -3,6 +3,8 @@
 /// <reference lib="esnext" />
 /// <reference lib="webworker" />
 
+console.log('#### service worker running !!');
+
 const sw = /** @type {ServiceWorkerGlobalScope} */ (/** @type {unknown} */ (self));
 
 /// <reference types="@sveltejs/kit" />
