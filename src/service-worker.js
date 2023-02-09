@@ -11,7 +11,7 @@ const sw = /** @type {ServiceWorkerGlobalScope} */ (/** @type {unknown} */ (self
 import { build, files, version } from '$service-worker';
 
 // Create a unique cache name for this deployment
-const CACHE = `cache v1-${version}`;
+const CACHE = `cache v2-${version}`;
 
 const ASSETS = [
 	...build, // the app itself
