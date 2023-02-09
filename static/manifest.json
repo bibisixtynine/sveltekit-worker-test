@@ -9,7 +9,7 @@
 	"description": "a great virtual computer",
 	"icons": [
 		{
-			"src": "sunrise-512x512.png",
+			"src": "sunrise512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
 		}
