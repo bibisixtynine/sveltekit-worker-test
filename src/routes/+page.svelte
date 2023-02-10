@@ -19,7 +19,7 @@
 			</picture>
 		</span>
 
-		to your neeeeweed<br />SvelteKit app
+		to your new V8<br />SvelteKit app
 	</h1>
 
 	<h2>
