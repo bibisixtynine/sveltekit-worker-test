@@ -19,7 +19,7 @@
 			</picture>
 		</span>
 
-		to your neeeew<br />SvelteKit app
+		to your neeeeweed<br />SvelteKit app
 	</h1>
 
 	<h2>
